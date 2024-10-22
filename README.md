@@ -1,7 +1,7 @@
 # Snake-water-gun-game (Python Implementation)
 This repository contains a Python implementation of the classic Snake-Water-Gun game, similar to Rock-Paper-Scissors. The game allows a user to play against the computer, where the first player to win 3 rounds emerges victorious. Key features include:
 
-Game Logic: The game logic determines the winner based on user and computer choices:
+# Game Logic: The game logic determines the winner based on user and computer choices:
 Snake beats Water
 Water beats Gun
 Gun beats Snake
